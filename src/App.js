@@ -18,7 +18,7 @@ state ={
   roomList:[{
     roomType:'Example Type',
     roomName:'Example Name',
-    roomColor:'red',
+    roomColor:'blue',
     devices:[
       {name:'Example1', on: false}
     ]
